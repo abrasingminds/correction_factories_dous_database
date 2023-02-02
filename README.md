@@ -1,6 +1,6 @@
-# dous
+# DoUs 
 
-A new Flutter project.
+A to-do Flutter App using sqflite
 
 ## Getting Started
 
